@@ -1,0 +1,13 @@
+{
+"items":[
+		{
+			"name" : "Apple",
+			"weight" : 0.13,
+			"stamina" : 5,
+			"speed" : 0,
+			"endurance" : 0,
+			"power" : 0,
+			"temper" : 0
+		}
+    ]
+}
