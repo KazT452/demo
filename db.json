@@ -1,14 +1,94 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"items":[
+		{
+			"name" : "Apple",
+			"weight" : 0.13,
+			"stamina" : 5,
+			"speed" : 0,
+			"endurance" : 0,
+			"power" : 0,
+			"temper" : 0
+		},
+		{
+			"name" : "Carrot",
+			"weight" : 0.13,
+			"stamina" : 0,
+			"speed" : 5,
+			"endurance" : 0,
+			"power" : 0,
+			"temper" : 0
+		},
+		{
+			"name" : "Banana",
+			"weight" : 0.13,
+			"stamina" : 0,
+			"speed" : 0,
+			"endurance" : 5,
+			"power" : 0,
+			"temper" : 0
+		},
+		{
+			"name" : "Honey",
+			"weight" : 0.13,
+			"stamina" : 0,
+			"speed" : 0,
+			"endurance" : 0,
+			"power" : 5,
+			"temper" : 0
+		},
+		{
+			"name" : "Hay",
+			"weight" : 0.13,
+			"stamina" : 0,
+			"speed" : 0,
+			"endurance" : 0,
+			"power" : 0,
+			"temper" : 5
+		},
+		{
+			"name" : "Juice",
+			"weight" : 0.11,
+			"stamina" : 0,
+			"speed" : 0,
+			"endurance" : 0,
+			"power" : 0,
+			"temper" : 5
+		},
+		{
+			"name" : "Brush",
+			"weight" : 0.1,
+			"stamina" : 0,
+			"speed" : 0,
+			"endurance" : 0,
+			"power" : 0,
+			"temper" : 5
+		},
+		{
+			"name" : "Nose Band",
+			"weight" : 0.08,
+			"stamina" : 0,
+			"speed" : 0,
+			"endurance" : 0,
+			"power" : 0,
+			"temper" : 5
+		},
+		{
+			"name" : "Blinder",
+			"weight" : 0.05,
+			"stamina" : 0,
+			"speed" : 0,
+			"endurance" : 0,
+			"power" : 0,
+			"temper" : 5
+		},
+		{
+			"name" : "Whip",
+			"weight" : 0.01,
+			"stamina" : 0,
+			"speed" : 0,
+			"endurance" : 0,
+			"power" : 0,
+			"temper" : 5
+		}
+	]
 }
