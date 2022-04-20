@@ -1,94 +1,59 @@
 {
-	"items":[
+	"horse":[
 		{
-			"name" : "Apple",
+			"name" : "Ace",
+			"width" : 0.15,
 			"weight" : 0.13,
-			"stamina" : 5,
-			"speed" : 0,
-			"endurance" : 0,
-			"power" : 0,
-			"temper" : 0
+			"skinId" : "black",
+			"patternId" : "pattern1",
+			"hairId": "black",
+			"headGearId" : "HG1",
+			"saddleId": "SD1",
+			"legGearId" : "LG1"
 		},
 		{
-			"name" : "Carrot",
+			"name" : "Boy",
+			"width" : 0.15,
 			"weight" : 0.13,
-			"stamina" : 0,
-			"speed" : 5,
-			"endurance" : 0,
-			"power" : 0,
-			"temper" : 0
+			"skinId" : "peach",
+			"patternId" : "pattern2",
+			"hairId": "peach",
+			"headGearId" : "HG2",
+			"saddleId": "SD2",
+			"legGearId" : "LG2"
 		},
 		{
-			"name" : "Banana",
+			"name" : "Cat",
+			"width" : 0.15,
 			"weight" : 0.13,
-			"stamina" : 0,
-			"speed" : 0,
-			"endurance" : 5,
-			"power" : 0,
-			"temper" : 0
+			"skinId" : "yellow",
+			"patternId" : "pattern3",
+			"hairId": "yellow",
+			"headGearId" : "HG3",
+			"saddleId": "SD3",
+			"legGearId" : "LG3"
 		},
 		{
-			"name" : "Honey",
+			"name" : "Dog",
+			"width" : 0.15,
 			"weight" : 0.13,
-			"stamina" : 0,
-			"speed" : 0,
-			"endurance" : 0,
-			"power" : 5,
-			"temper" : 0
+			"skinId" : "green",
+			"patternId" : "pattern4",
+			"hairId": "green",
+			"headGearId" : "HG4",
+			"saddleId": "SD4",
+			"legGearId" : "LG4"
 		},
 		{
-			"name" : "Hay",
+			"name" : "Echo",
+			"width" : 0.15,
 			"weight" : 0.13,
-			"stamina" : 0,
-			"speed" : 0,
-			"endurance" : 0,
-			"power" : 0,
-			"temper" : 5
+			"skinId" : "white",
+			"patternId" : "pattern5",
+			"hairId": "white",
+			"headGearId" : "HG5",
+			"saddleId": "SD5",
+			"legGearId" : "LG5"
 		},
-		{
-			"name" : "Juice",
-			"weight" : 0.11,
-			"stamina" : 0,
-			"speed" : 0,
-			"endurance" : 0,
-			"power" : 0,
-			"temper" : 5
-		},
-		{
-			"name" : "Brush",
-			"weight" : 0.1,
-			"stamina" : 0,
-			"speed" : 0,
-			"endurance" : 0,
-			"power" : 0,
-			"temper" : 5
-		},
-		{
-			"name" : "Nose Band",
-			"weight" : 0.08,
-			"stamina" : 0,
-			"speed" : 0,
-			"endurance" : 0,
-			"power" : 0,
-			"temper" : 5
-		},
-		{
-			"name" : "Blinder",
-			"weight" : 0.05,
-			"stamina" : 0,
-			"speed" : 0,
-			"endurance" : 0,
-			"power" : 0,
-			"temper" : 5
-		},
-		{
-			"name" : "Whip",
-			"weight" : 0.01,
-			"stamina" : 0,
-			"speed" : 0,
-			"endurance" : 0,
-			"power" : 0,
-			"temper" : 5
-		}
 	]
 }
