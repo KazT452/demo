@@ -1,26 +1,26 @@
 {
 	"horse":[
 		{
-			"name" : "Ace",
-			"width" : 0.15,
-			"weight" : 0.13,
-			"skinId" : "black",
-			"patternId" : "pattern1",
-			"hairId": "black",
-			"headGearId" : "HG1",
-			"saddleId": "SD1",
-			"legGearId" : "LG1"
+			"Name" : "Ace",
+			"Width" : 0.15,
+			"Weight" : 0.13,
+			"SkinId" : "black",
+			"PatternId" : "pattern1",
+			"HairId": "black",
+			"HeadGearId" : "HG1",
+			"SaddleId": "SD1",
+			"LegGearId" : "LG1"
 		},
 		{
-			"name" : "Boy",
-			"width" : 0.15,
-			"weight" : 0.13,
-			"skinId" : "peach",
-			"patternId" : "pattern2",
-			"hairId": "peach",
-			"headGearId" : "HG2",
-			"saddleId": "SD2",
-			"legGearId" : "LG2"
+			"Name" : "Boy",
+			"Width" : 0.15,
+			"Weight" : 0.13,
+			"SkinId" : "peach",
+			"PatternId" : "pattern2",
+			"HairId": "peach",
+			"HeadGearId" : "HG2",
+			"SaddleId": "SD2",
+			"LegGearId" : "LG2"
 		},
 		{
 			"name" : "Cat",
