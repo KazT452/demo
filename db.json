@@ -3,7 +3,7 @@
 		{
 			"Name" : "Ace",
 			"Width" : 0.15,
-			"Weight" : 0.13,
+			"Height" : 0.13,
 			"SkinId" : "black",
 			"PatternId" : "pattern1",
 			"HairId": "black",
@@ -14,7 +14,7 @@
 		{
 			"Name" : "Boy",
 			"Width" : 0.15,
-			"Weight" : 0.13,
+			"Height" : 0.13,
 			"SkinId" : "peach",
 			"PatternId" : "pattern2",
 			"HairId": "peach",
@@ -23,37 +23,26 @@
 			"LegGearId" : "LG2"
 		},
 		{
-			"name" : "Cat",
-			"width" : 0.15,
-			"weight" : 0.13,
-			"skinId" : "yellow",
-			"patternId" : "pattern3",
-			"hairId": "yellow",
-			"headGearId" : "HG3",
-			"saddleId": "SD3",
-			"legGearId" : "LG3"
+			"Name" : "Cat",
+			"Width" : 0.15,
+			"Height" : 0.13,
+			"SkinId" : "yellow",
+			"PatternId" : "pattern3",
+			"HairId": "yellow",
+			"HeadGearId" : "HG3",
+			"SaddleId": "SD3",
+			"LegGearId" : "LG3"
 		},
 		{
-			"name" : "Dog",
-			"width" : 0.15,
-			"weight" : 0.13,
-			"skinId" : "green",
-			"patternId" : "pattern4",
-			"hairId": "green",
-			"headGearId" : "HG4",
-			"saddleId": "SD4",
-			"legGearId" : "LG4"
-		},
-		{
-			"name" : "Echo",
-			"width" : 0.15,
-			"weight" : 0.13,
-			"skinId" : "white",
-			"patternId" : "pattern5",
-			"hairId": "white",
-			"headGearId" : "HG5",
-			"saddleId": "SD5",
-			"legGearId" : "LG5"
+			"Name" : "Echo",
+			"Width" : 0.15,
+			"Height" : 0.13,
+			"SkinId" : "white",
+			"PatternId" : "pattern5",
+			"HairId": "white",
+			"HeadGearId" : "HG5",
+			"SaddleId": "SD5",
+			"LegGearId" : "LG5"
 		}
 	]
 }
