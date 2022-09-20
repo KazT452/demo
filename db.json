@@ -1,48 +1,6 @@
 {
-	"horse":[
-		{
-			"Name" : "Ace",
-			"Width" : 0.15,
-			"Height" : 0.13,
-			"SkinId" : "black",
-			"PatternId" : "pattern1",
-			"HairId": "black",
-			"HeadGearId" : "HG1",
-			"SaddleId": "SD1",
-			"LegGearId" : "LG1"
-		},
-		{
-			"Name" : "Boy",
-			"Width" : 0.15,
-			"Height" : 0.13,
-			"SkinId" : "peach",
-			"PatternId" : "pattern2",
-			"HairId": "peach",
-			"HeadGearId" : "HG2",
-			"SaddleId": "SD2",
-			"LegGearId" : "LG2"
-		},
-		{
-			"Name" : "Cat",
-			"Width" : 0.15,
-			"Height" : 0.13,
-			"SkinId" : "yellow",
-			"PatternId" : "pattern3",
-			"HairId": "yellow",
-			"HeadGearId" : "HG3",
-			"SaddleId": "SD3",
-			"LegGearId" : "LG3"
-		},
-		{
-			"Name" : "Echo",
-			"Width" : 0.15,
-			"Height" : 0.13,
-			"SkinId" : "white",
-			"PatternId" : "pattern5",
-			"HairId": "white",
-			"HeadGearId" : "HG5",
-			"SaddleId": "SD5",
-			"LegGearId" : "LG5"
-		}
-	]
+
+"chances" : "10",
+"items" : [{  "name": "banana", "occurences": "0.8", "score" : "100" },{  "name": "watermelon", "occurences": "0.2", "score" : "100" } ],
+"frenzy" : "3" (start time)
 }
